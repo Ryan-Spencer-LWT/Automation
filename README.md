@@ -12,7 +12,8 @@ Start : sh ./Create-Group_Assign_Policy.sh
 
 
 
-list_group_for_iam_user.sh    //SCRIPT CAN BE INTERCHANGABLE WITH POLICIES, ROLES, ETC...
+list_group_for_iam_user.sh    
+//SCRIPT CAN BE INTERCHANGABLE WITH POLICIES, ROLES, ETC...
 //STEPS AND FUNCTION OF SHELL SCRIPT
 Start : sh ./list_group_for_iam_user.sh
 
